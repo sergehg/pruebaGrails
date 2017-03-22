@@ -13,7 +13,7 @@ class Ship {
     }
 
 	static mapping = {
-		table "barco"
+		table "ship"
         matricula column: "matricula"
         nombre column: "nombre"
         pasajeros column: "pasajeros"
